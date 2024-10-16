@@ -1,5 +1,5 @@
 # GSTN Presents GST Hackthon : Fraud Detection Using Machine Learning
-![Model Comparison using PyCaret AutoML](https://github.com/Aakashdeep-Srivastava/GST-Hackathon/blob/main/Images/Model%20Comparison.png)
+![Model Comparison using PyCaret AutoML](https://github.com/Aakashdeep-Srivastava/GST-Hackathon/blob/main/Images/GST.png)
 This project focuses on detecting fraudulent transactions in the Goods and Services Tax (GST) system using advanced machine learning techniques. It addresses the critical issue of fraud detection in GST transactions, which is crucial for maintaining the integrity of the tax system and preventing revenue losses.
 
 ## Introduction
