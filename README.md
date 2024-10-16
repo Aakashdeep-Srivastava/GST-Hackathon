@@ -64,7 +64,7 @@ Key findings include:
 - Undersampling techniques significantly improved recall, with XGBoost reaching 100% recall.
 - SMOTE improved the balance between precision and recall for XGBoost, maintaining high performance across all metrics.
 ![Result](https://github.com/Aakashdeep-Srivastava/GST-Hackathon/blob/main/Images/Result.png)
-![Result](https://github.com/Aakashdeep-Srivastava/GST-Hackathon/blob/main/Images/Result.png)
+![AUC](https://github.com/Aakashdeep-Srivastava/GST-Hackathon/blob/main/Images/AUC.png)
 
 ## Conclusion
 
