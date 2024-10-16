@@ -1,5 +1,5 @@
 # GSTN Presents GST Hackthon : Fraud Detection Using Machine Learning
-![Model Comparison using PyCaret AutoML](https://github.com/Aakashdeep-Srivastava/GST-Hackathon/blob/main/Images/GST.png)
+![Website](https://github.com/Aakashdeep-Srivastava/GST-Hackathon/blob/main/Images/GST.png)
 This project focuses on detecting fraudulent transactions in the Goods and Services Tax (GST) system using advanced machine learning techniques. It addresses the critical issue of fraud detection in GST transactions, which is crucial for maintaining the integrity of the tax system and preventing revenue losses.
 
 ## Introduction
@@ -8,7 +8,7 @@ Fraud detection in GST is a significant challenge due to the increasing incidenc
 
 ## Problem Statement
 
-The dataset consists of 21 features, including the target variable indicating fraudulent or non-fraudulent transactions. A major challenge is the class imbalance within the dataset, where fraudulent cases constitute a very small percentage of the total transactions. This imbalance complicates the prediction of fraudulent activities, as standard classification algorithms may perform poorly on underrepresented classes.
+The dataset consists of approx. 9 lakhs Row and 21 column, including the target variable indicating fraudulent or non-fraudulent transactions. A major challenge is the class imbalance within the dataset, where fraudulent cases constitute a very small percentage of the total transactions. This imbalance complicates the prediction of fraudulent activities, as standard classification algorithms may perform poorly on underrepresented classes.
 
 ## Objectives
 
@@ -63,6 +63,8 @@ Key findings include:
 - The base XGBoost model achieved high accuracy (98%) and ROC-AUC (99%).
 - Undersampling techniques significantly improved recall, with XGBoost reaching 100% recall.
 - SMOTE improved the balance between precision and recall for XGBoost, maintaining high performance across all metrics.
+![Result](https://github.com/Aakashdeep-Srivastava/GST-Hackathon/blob/main/Images/Result.png)
+![Result](https://github.com/Aakashdeep-Srivastava/GST-Hackathon/blob/main/Images/Result.png)
 
 ## Conclusion
 
